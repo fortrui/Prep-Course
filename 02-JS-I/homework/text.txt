@@ -1,0 +1,9 @@
+Variables: es una forma de almacenar el valor de algo para usar más tarde.
+
+Strings: cadenas de texto.
+
+Funciones: una instrucción para realizar una tarea. A partir del return no se puede acceder a nuevas instrucciones.
+
+Declaraciones: instrucciones a ser ejecutadas según se cumplan o no ciertas condiciones.
+
+Valores booleanos: son aquellos que se responden con un true o false.
