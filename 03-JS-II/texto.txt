@@ -1,0 +1,5 @@
+For: son bucles para realizar tareas repetitivas según una condición
+
+&&: AND
+||: OR 
+!: NOT
